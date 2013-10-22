@@ -1,0 +1,10 @@
+;;; Automatically generated on Tue Oct 22 16:49:42 2013
+;;; Invoked by silver@XL using 24.3.1
+(setq-default session-file-alist '(("e:/Users/Documents/±Ê¼Ç/A01.004_20131011/a01_004.tex" 50 3357 1 nil nil 50 (overwrite-mode)) ("e:/Users/Desktop/tex/a01_003.tex" 852 637 1 nil nil 667 (overwrite-mode))))
+(setq-default file-name-history '("e:/Users/Documents/±Ê¼Ç/A01.004_20131011/a01_004.tex" "~/.emacs.d/" "e:/Users/Downloads/auto-complete-1.3.1/etc/install.el" "e:/Users/Desktop/tex/a01_003.tex"))
+(setq-default LaTeX-environment-history '("list"))
+(setq-default buffer-name-history '("a01_003.tex"))
+(setq-default command-history '((kill-buffer "a01_003.tex")))
+(setq-default ido-buffer-history '("a01_003.tex"))
+(setq-default minibuffer-history '("sdf"))
+(setq-default occur-collect-regexp-history '("\\1"))

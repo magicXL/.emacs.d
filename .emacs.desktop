@@ -1,0 +1,39 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Oct 22 16:49:43 2013
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq frame-restore-params '((+ -63) 41 150 50 t))
+(setq extended-command-history nil)
+(setq file-name-history '("e:/Users/Documents/‘±Ê‘¼Ç/A01.004_20131011/a01_004.tex" "~/.emacs.d/" "e:/Users/Downloads/auto-complete-1.3.1/etc/install.el" "e:/Users/Documents/‘±Ê‘¼Ç/A01.004_20131011/a01_004.tex" "e:/Users/Desktop/tex/a01_003.tex"))
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
+(setq grep-history nil)
+(setq minibuffer-history '("sdf"))
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq search-ring nil)
+(setq shell-command-history nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq register-alist nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "e:/Users/Documents/‘±Ê‘¼Ç/A01.004_20131011/a01_004.tex"
+  "a01_004.tex"
+  'latex-mode
+  '(auto-fill-mode linum-mode reftex-mode)
+  415
+  '(683 t)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (case-fold-search . t)))
+
